@@ -1,4 +1,4 @@
-## DevOps Trainng 2024
+# DevOps Trainng 2024
 
 **1. Introduction to DevOps**  
 
