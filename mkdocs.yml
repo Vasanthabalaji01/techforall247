@@ -1,5 +1,7 @@
 site_name: Tamil Cloud
 
+repo_url: https://github.com/Vasanthabalaji01/techforall247
+
 theme:
   name: material
   palette:
